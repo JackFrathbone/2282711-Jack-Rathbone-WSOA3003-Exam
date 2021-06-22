@@ -4,127 +4,127 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5441223297315994465
-    second: Tileset_wall_top_leftcorner
+    second: Tileset_0
   - first:
       213: -3309781605116015348
-    second: Tileset_wall_top
+    second: Tileset_1
   - first:
       213: -6108889420429456849
-    second: Tileset_wall_top_rightcorner
+    second: Tileset_2
   - first:
       213: 5682393469540925955
-    second: Tileset_doorway_top
+    second: Tileset_3
   - first:
       213: 2403724249865808194
-    second: Tileset_door_top
+    second: Tileset_4
   - first:
       213: 8040196581939011165
-    second: Tileset_grate_top
+    second: Tileset_5
   - first:
       213: -6056380807486736462
-    second: Tileset_floor_leftwall
+    second: Tileset_6
   - first:
       213: -8480404140891905064
-    second: Tileset_floor
+    second: Tileset_7
   - first:
       213: -72156938504300551
-    second: Tileset_floor_rightwall
+    second: Tileset_8
   - first:
       213: 7769453424612927293
-    second: Tileset_doorway_bottom
+    second: Tileset_9
   - first:
       213: -8025435653959805260
-    second: Tileset_door_bottom
+    second: Tileset_10
   - first:
       213: 4938342473259674171
-    second: Tileset_grate_bottom
+    second: Tileset_11
   - first:
       213: -6315978382755026507
-    second: Tileset_wall_bottom_leftcorner
+    second: Tileset_12
   - first:
       213: -1010255394613501995
-    second: Tileset_wall_bottom
+    second: Tileset_13
   - first:
       213: -7933298228110686459
-    second: Tileset_wall_bottom_rigthcorner
+    second: Tileset_14
   - first:
       213: 2167505942708378944
-    second: Tileset_decoration_top
+    second: Tileset_15
   - first:
       213: -9164683769879867358
-    second: Tileset_end_top
+    second: Tileset_16
   - first:
       213: -4087309676702264633
-    second: Tileset_banner_top
+    second: Tileset_17
   - first:
       213: 3931779560235752176
-    second: Tileset_torch_1
+    second: Tileset_18
   - first:
       213: -1865757787562490331
-    second: Tileset_torch_2
+    second: Tileset_19
   - first:
       213: -7869403223043187030
-    second: Tileset_torch_3
+    second: Tileset_20
   - first:
       213: 6408231970667830406
-    second: Tileset_torch_4
+    second: Tileset_21
   - first:
       213: 511961965738296472
-    second: Tileset_wall_top_right
+    second: Tileset_22
   - first:
       213: -8442174482077232629
-    second: Tileset_wall_top_left
+    second: Tileset_23
   - first:
       213: -6936079216851816805
-    second: Tileset_object_lava
+    second: Tileset_24
   - first:
       213: 7810936717752353743
-    second: Tileset_object_ice
+    second: Tileset_25
   - first:
       213: 3419707775326841495
-    second: Tileset_object_hole
+    second: Tileset_26
   - first:
       213: -7245433517681746672
-    second: Tileset_object_holefilled
+    second: Tileset_27
   - first:
       213: -251839660766796828
-    second: Tileset_wall_right
+    second: Tileset_28
   - first:
       213: 6498308080520882553
-    second: Tileset_wall_left
+    second: Tileset_29
   - first:
       213: -4153462369580933767
-    second: Tileset_elemt_fire
+    second: Tileset_30
   - first:
       213: 5252699531460982423
-    second: Tileset_element_water
+    second: Tileset_31
   - first:
       213: -1995710985900991969
-    second: Tileset_element_earth
+    second: Tileset_32
   - first:
       213: -6790877635778163277
-    second: Tileset_wall_bottom_right
+    second: Tileset_33
   - first:
       213: -8485852519046724033
-    second: Tileset_wall_bottom_left
+    second: Tileset_34
   - first:
       213: 4060682636331337571
-    second: Tileset_enemy_patrol
+    second: Tileset_35
   - first:
       213: -5244482664123065748
-    second: Tileset_enemy_ranged_down
+    second: Tileset_36
   - first:
       213: 3355423005436571770
-    second: Tileset_enemy_ranged_right
+    second: Tileset_37
   - first:
       213: 7000084741650100059
-    second: Tileset_enemy_ranged_left
+    second: Tileset_38
   - first:
       213: -3708064732922258302
-    second: Tileset_player_1
+    second: Tileset_39
   - first:
       213: -6845586650278806490
-    second: Tileset_player_2
+    second: Tileset_40
   - first:
       213: 9050836684853675456
     second: Tileset_41
@@ -137,6 +137,12 @@ TextureImporter:
   - first:
       213: -1764967261314419617
     second: Tileset_44
+  - first:
+      213: 4097243551642442831
+    second: Tileset_45
+  - first:
+      213: -4553793528244279247
+    second: Tileset_46
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -226,7 +232,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tileset_wall_top_leftcorner
+      name: Tileset_0
       rect:
         serializedVersion: 2
         x: 0
@@ -251,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_top
+      name: Tileset_1
       rect:
         serializedVersion: 2
         x: 32
@@ -276,7 +282,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_top_rightcorner
+      name: Tileset_2
       rect:
         serializedVersion: 2
         x: 64
@@ -301,7 +307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_doorway_top
+      name: Tileset_3
       rect:
         serializedVersion: 2
         x: 96
@@ -322,7 +328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_door_top
+      name: Tileset_4
       rect:
         serializedVersion: 2
         x: 128
@@ -347,7 +353,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_grate_top
+      name: Tileset_5
       rect:
         serializedVersion: 2
         x: 160
@@ -372,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_floor_leftwall
+      name: Tileset_6
       rect:
         serializedVersion: 2
         x: 0
@@ -386,8 +392,8 @@ TextureImporter:
       physicsShape:
       - - {x: -16, y: 16}
         - {x: -16, y: -16}
-        - {x: -12, y: -16}
-        - {x: -12, y: 16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
       tessellationDetail: 0
       bones: []
       spriteID: 2b772416eb963fba0800000000000000
@@ -397,7 +403,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_floor
+      name: Tileset_7
       rect:
         serializedVersion: 2
         x: 32
@@ -418,7 +424,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_floor_rightwall
+      name: Tileset_8
       rect:
         serializedVersion: 2
         x: 64
@@ -430,8 +436,8 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: 12, y: 16}
-        - {x: 12, y: -16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
         - {x: 16, y: -16}
         - {x: 16, y: 16}
       tessellationDetail: 0
@@ -443,7 +449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_doorway_bottom
+      name: Tileset_9
       rect:
         serializedVersion: 2
         x: 96
@@ -464,7 +470,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_door_bottom
+      name: Tileset_10
       rect:
         serializedVersion: 2
         x: 128
@@ -489,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_grate_bottom
+      name: Tileset_11
       rect:
         serializedVersion: 2
         x: 160
@@ -514,7 +520,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_bottom_leftcorner
+      name: Tileset_12
       rect:
         serializedVersion: 2
         x: 0
@@ -539,7 +545,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_bottom
+      name: Tileset_13
       rect:
         serializedVersion: 2
         x: 32
@@ -564,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_bottom_rigthcorner
+      name: Tileset_14
       rect:
         serializedVersion: 2
         x: 64
@@ -589,7 +595,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_decoration_top
+      name: Tileset_15
       rect:
         serializedVersion: 2
         x: 96
@@ -614,7 +620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_end_top
+      name: Tileset_16
       rect:
         serializedVersion: 2
         x: 128
@@ -639,7 +645,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_banner_top
+      name: Tileset_17
       rect:
         serializedVersion: 2
         x: 160
@@ -664,7 +670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_torch_1
+      name: Tileset_18
       rect:
         serializedVersion: 2
         x: 0
@@ -689,7 +695,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_torch_2
+      name: Tileset_19
       rect:
         serializedVersion: 2
         x: 32
@@ -714,7 +720,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_torch_3
+      name: Tileset_20
       rect:
         serializedVersion: 2
         x: 64
@@ -739,7 +745,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_torch_4
+      name: Tileset_21
       rect:
         serializedVersion: 2
         x: 96
@@ -764,7 +770,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_top_right
+      name: Tileset_22
       rect:
         serializedVersion: 2
         x: 128
@@ -789,7 +795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_top_left
+      name: Tileset_23
       rect:
         serializedVersion: 2
         x: 160
@@ -814,7 +820,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_object_lava
+      name: Tileset_24
       rect:
         serializedVersion: 2
         x: 0
@@ -835,7 +841,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_object_ice
+      name: Tileset_25
       rect:
         serializedVersion: 2
         x: 32
@@ -856,7 +862,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_object_hole
+      name: Tileset_26
       rect:
         serializedVersion: 2
         x: 64
@@ -881,7 +887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_object_holefilled
+      name: Tileset_27
       rect:
         serializedVersion: 2
         x: 96
@@ -902,7 +908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_right
+      name: Tileset_28
       rect:
         serializedVersion: 2
         x: 128
@@ -927,7 +933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_left
+      name: Tileset_29
       rect:
         serializedVersion: 2
         x: 160
@@ -952,7 +958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_elemt_fire
+      name: Tileset_30
       rect:
         serializedVersion: 2
         x: 0
@@ -973,7 +979,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_element_water
+      name: Tileset_31
       rect:
         serializedVersion: 2
         x: 32
@@ -994,7 +1000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_element_earth
+      name: Tileset_32
       rect:
         serializedVersion: 2
         x: 64
@@ -1015,7 +1021,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_bottom_right
+      name: Tileset_33
       rect:
         serializedVersion: 2
         x: 128
@@ -1040,7 +1046,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_wall_bottom_left
+      name: Tileset_34
       rect:
         serializedVersion: 2
         x: 160
@@ -1065,7 +1071,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_enemy_patrol
+      name: Tileset_35
       rect:
         serializedVersion: 2
         x: 0
@@ -1086,7 +1092,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_enemy_ranged_down
+      name: Tileset_36
       rect:
         serializedVersion: 2
         x: 32
@@ -1107,7 +1113,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_enemy_ranged_right
+      name: Tileset_37
       rect:
         serializedVersion: 2
         x: 64
@@ -1128,7 +1134,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_enemy_ranged_left
+      name: Tileset_38
       rect:
         serializedVersion: 2
         x: 96
@@ -1149,7 +1155,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_player_1
+      name: Tileset_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1170,7 +1176,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_player_2
+      name: Tileset_40
       rect:
         serializedVersion: 2
         x: 160
@@ -1290,6 +1296,60 @@ TextureImporter:
       bones: []
       spriteID: f54f82580a39187e0800000000000000
       internalID: -1764967261314419617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c58e55d455cd830800000000000000
+      internalID: 4097243551642442831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 10, y: 16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e680c9ecadc0c0800000000000000
+      internalID: -4553793528244279247
       vertices: []
       indices: 
       edges: []

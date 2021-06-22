@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Element
+  - Door
+  - Hole
+  - Ice
+  - Lava
+  - Grate
+  - Sign
   layers:
   - Default
   - TransparentFX
