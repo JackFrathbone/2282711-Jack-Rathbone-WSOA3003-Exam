@@ -2454,7 +2454,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Credits
+  m_text: 'Press Start 2P font by Codeman38 licensed under the Open Font License
+    1.1
+
+
+    Created by Jack Rathbone 2021'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: abfe01a339f5d154fa379efb74fb063d, type: 2}
   m_sharedMaterial: {fileID: 6838834049010830896, guid: abfe01a339f5d154fa379efb74fb063d, type: 2}
